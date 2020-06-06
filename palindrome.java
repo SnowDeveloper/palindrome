@@ -1,3 +1,5 @@
+// Program in java which checks if a number is palindrome or not.
+
 class PalindromeExample{  
  public static void main(String args[]){  
   int r,sum=0,temp;    
